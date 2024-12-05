@@ -1,14 +1,11 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "expo-template-default",
+    "name": "Iparra",
+    "slug": "iparra",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "plugins": [
-      "expo-sensors"
-    ]
+    "plugins": []
   }
 }
