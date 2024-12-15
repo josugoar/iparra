@@ -1,5 +1,3 @@
-# iparra
-
 <p align="center">
   <img src="assets/iparra.png" alt="iparra" width="640" height="320" />
 </p>
@@ -10,6 +8,6 @@
 
 Iparra is a simple multiplatform (Android, iOS) digital compass application that simulates the behaviour of an analog compass by pointing to the magnetic north using physics based animations.
 
-## Credits
+# Credits
 
 * [compass-needle](https://www.svgrepo.com/svg/450751/compass-needle)
